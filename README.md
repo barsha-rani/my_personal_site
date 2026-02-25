@@ -1,8 +1,6 @@
-'''
+```
+#Project Structure
 
-Create a personal name card
-
-.
 ├── server.py
 ├── static/
 │   ├── favicon.ico
@@ -17,4 +15,4 @@ Create a personal name card
 │   ├── index.html
 │   └── index_practice.html
 
-'''
+```
